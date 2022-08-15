@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3099460c-eaf3-4cfe-832f-169cb69d5b77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CsDINgZBTaI6eWCCvRuzzVZlyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3099460c-eaf3-4cfe-832f-169cb69d5b77" name="Default Changelist" comment="" />
+      <created>1659582317140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659582317140</updated>
+      <workItem from="1659582319298" duration="8986000" />
+      <workItem from="1659667588570" duration="4520000" />
+      <workItem from="1659780728698" duration="2653000" />
+      <workItem from="1659839013738" duration="4556000" />
+      <workItem from="1659923663312" duration="1839000" />
+      <workItem from="1659960103243" duration="1107000" />
+      <workItem from="1660009094582" duration="2740000" />
+      <workItem from="1660098261405" duration="1188000" />
+      <workItem from="1660181976501" duration="2815000" />
+      <workItem from="1660268537424" duration="1189000" />
+      <workItem from="1660325232919" duration="595000" />
+      <workItem from="1660358991572" duration="699000" />
+      <workItem from="1660372489615" duration="69000" />
+      <workItem from="1660372585319" duration="76000" />
+      <workItem from="1660372672867" duration="2027000" />
+      <workItem from="1660465467317" duration="1189000" />
+      <workItem from="1660559858427" duration="911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659585303251">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="309" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.912@0.0.1707.912" timestamp="1659585303251" />
+    <state x="598" y="265" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1659690405848">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="598" y="265" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.912@0.0.1707.912" timestamp="1659690405848" />
+    <state x="584" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1659596918008">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="584" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.912@0.0.1707.912" timestamp="1659596918008" />
+    <state width="1663" height="712" key="GridCell.Tab.0.bottom" timestamp="1660373947285">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="712" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1660373947285" />
+    <state width="1663" height="712" key="GridCell.Tab.0.center" timestamp="1660373947285">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="712" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1660373947285" />
+    <state width="1663" height="712" key="GridCell.Tab.0.left" timestamp="1660373947285">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="712" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1660373947285" />
+    <state width="1663" height="712" key="GridCell.Tab.0.right" timestamp="1660373947285">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="712" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1660373947285" />
+    <state x="357" y="102" key="SettingsEditor" timestamp="1660560764255">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="357" y="102" key="SettingsEditor/0.0.1707.912@0.0.1707.912" timestamp="1660560764255" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1659587374760">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912@0.0.1707.912" timestamp="1659587374760" />
+  </component>
+</project>
